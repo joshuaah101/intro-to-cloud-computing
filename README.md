@@ -1,6 +1,3 @@
-# intro-to-cloud-computing
-# Learning Cloud computing from fresh
-
 <h1 align="center">Hello👋, I'm Joshua Oluwajare Faloye</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
